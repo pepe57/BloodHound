@@ -1,1 +1,1 @@
-Place to store schemas
+Place to store graph structure schemas
